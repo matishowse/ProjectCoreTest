@@ -1,1 +1,1 @@
-print("Hellow GitHub!")
+def add(a,b): return a+b
